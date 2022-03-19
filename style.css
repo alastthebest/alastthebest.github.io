@@ -170,6 +170,7 @@ copright {
 
 socials {
     display: flex;
+    padding: 12px;
     flex-direction: row;
     place-content: center;
     place-items: center;
